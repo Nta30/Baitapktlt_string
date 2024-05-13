@@ -1,0 +1,30 @@
+//Cac ham can nho trong string
+// islower(char c) :Kiem tra xem co phai ki tu thuong hay khong
+
+// isupper(char c) :Kiem tra xem co phai ki tu HOA hay khong
+
+// isalpha(char c) :Kiem tra xem co phai ki tu chu cai hay khong 
+
+// islower(char c) :Kiem tra xem co phai ki tu so hay khong
+
+// tolower(char c) :Chuyen tu ki tu HOA ve ki tu thuong
+
+// toupper(char c) :Chuyen tu ki tu thuong ve ki tu HOA
+
+// strlen(char c[]) :Tra ve do dai cua 1 xau ki tu
+
+// strcmp(char a[], char b[]) :So sanh xau ki tu a va xau ki tu b
+
+// strrev(char c[]) :Dao nguoc chuoi ki tu
+
+// strlwr(char c[]) :Bien toan bo ki tu trong xau thanh ki tu thuong
+
+// strupr(char c[]) :Bien toan bo ki tu trong xau thanh ki tu HOA
+
+// strcpy(char c[], char d[]) :COPY xau d vao xau c
+
+// strcat(char c[], char d[]) :Noi xau d vao xau c
+
+// atoi(char c[]) : Tra ve kieu so ( int ) cua xau ban dau
+
+// atoll(char c[]): Tra ve kieu so ( long long ) cua xau ban dau
