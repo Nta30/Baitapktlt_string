@@ -1,3 +1,4 @@
+//Nhap vao Ho va ten sau do in ra ten (VD:Nguyen Tuan Anh-> Anh)
 #include<stdio.h>
 #include<string.h>
 
